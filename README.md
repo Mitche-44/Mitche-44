@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Mitche-44
+- 👋 Hi, I’m @Mitchelle Ngetich
 - 👀 I’m interested in ...software engineering
 - 🌱 I’m currently learning ...software engineering
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...mitchellngetich24@gmail.com
-- 😄 Pronouns: ...she
+- 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...The most popular programming language in 2021 is JavaScript, followed by Python and Java.
 
 <!---
