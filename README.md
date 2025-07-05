@@ -1,10 +1,10 @@
 
-<h2 align="center">Hi there 👋, I'm [Mitchelle Ngetich]</h2>
+<h2 align="center">Hi there 👋, I'm Mitchelle Ngetich</h2>
 
 <p align="center">
   <samp>
     A passionate Software Developer who loves solving real-world problems with code.<br>
-    Always learning, building, and growing 💻🌱
+    Always learning, building, and growing.
   </samp>
 </p>
 
@@ -12,10 +12,10 @@
 
 ### 🌟 About Me
 
-- 🎓 I'm a [Your Role — e.g., Full Stack Developer / Software Engineering Student]
-- 🔭 Currently working on: **[Your Project or Learning Focus]**
-- 🌱 Learning: **[Technologies like Flask, React, Docker, etc.]**
-- 🛠️ Tools I use: **VS Code, Git, Postman, etc.**
+-  I'm a Full Stack Developer and a Software Engineer.
+-  Currently working on: **[Your Project or Learning Focus]**
+-  Learning: **[Technologies like Flask, React, Docker, etc.]**
+-  Tools I use: **VS Code, Git, Postman, Linux, Vercel, Superbase.**
 - ✨ Interests: Building apps, automating things, and making cool UIs
 
 ---
@@ -36,27 +36,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mitche-44&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitche-44&layout=compact&theme=tokyonight" />
 </div>
 
 ---
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 <p align="center"><samp>See you again!</samp></p>
