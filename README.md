@@ -13,10 +13,10 @@
 ### 🌟 About Me
 
 -  I'm a Full Stack Developer and a Software Engineer.
--  Currently working on: **[Your Project or Learning Focus]**
--  Learning: **[Technologies like Flask, React, Docker, etc.]**
+-  Currently working on: **https://github.com/Mitche-44/Tour-Company-Web**
+-  Learning: **Technologies like Flask, React, Docker, etc.**
 -  Tools I use: **VS Code, Git, Postman, Linux, Vercel, Superbase.**
-- ✨ Interests: Building apps, automating things, and making cool UIs
+- Interests: Building apps, automating things, and making cool UIs
 
 ---
 
